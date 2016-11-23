@@ -58,21 +58,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="serve.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="serve.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jsdemo/serve.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="310" column="13" selection-start-line="310" selection-start-column="13" selection-end-line="310" selection-end-column="13" />
+            <state relative-caret-position="554">
+              <caret line="248" column="49" selection-start-line="248" selection-start-column="49" selection-end-line="248" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Environment.java" pinned="false" current-in-tab="false">
-        <entry file="file://D:/SDK/sources/android-23/android/os/Environment.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7201">
-              <caret line="414" column="55" selection-start-line="414" selection-start-column="47" selection-end-line="414" selection-end-column="55" />
+            <state relative-caret-position="708">
+              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -106,7 +106,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1995">
               <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#3359#3360#0" expanded="false" />
+                <element signature="e#3402#3403#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1683,6 +1687,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/jsdemo/AndroidJavaScript.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/jsdemo/serve.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1767,6 +1772,11 @@
     <property name="DEBUGGABLE_PROCESS" value="com.example.jsdemo" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="DEBUGGER_ID" value="Auto" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\JSdemo-1" />
+    </key>
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -2077,7 +2087,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2096,7 +2106,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3585746" sideWeight="0.4717484" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1391258" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1391258" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -2171,7 +2181,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
           <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3359#3360#0" expanded="false" />
+            <element signature="e#3402#3403#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2195,7 +2209,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
           <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3359#3360#0" expanded="false" />
+            <element signature="e#3402#3403#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2211,7 +2229,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
           <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3359#3360#0" expanded="false" />
+            <element signature="e#3402#3403#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2227,7 +2249,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
           <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3359#3360#0" expanded="false" />
+            <element signature="e#3402#3403#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2263,8 +2289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/jsdemo/serve.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="310" column="13" selection-start-line="310" selection-start-column="13" selection-end-line="310" selection-end-column="13" />
+        <state relative-caret-position="554">
+          <caret line="248" column="49" selection-start-line="248" selection-start-column="49" selection-end-line="248" selection-end-column="49" />
           <folding />
         </state>
       </provider>
@@ -2300,6 +2326,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1995">
           <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3359#3360#0" expanded="false" />
+            <element signature="e#3402#3403#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
           <folding />
         </state>
       </provider>
