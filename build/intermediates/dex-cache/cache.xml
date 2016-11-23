@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\code\JSdemo-1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="422805f99d3e4b79dbaf52411a306a5d1c329a26">
+        <dex dex="D:\code\JSdemo-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ff188c49a8e1568e631ffac8c9a7af0b1585a2b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\JSdemo-1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\code\JSdemo-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_55258d95cd6a390c7b00f2ec2174469815cf69d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\JSdemo-1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="20151106a59107e38981fc5e657521514f769a71">
+        <dex dex="D:\code\JSdemo-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8e24629cf78fb327035da15f61f0e7e7dcb85e0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\JSdemo-1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\code\JSdemo-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_2b7055e692b120c4299918fd42d1c308202b9f07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\code\JSdemo-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_9e78d40d157f34b8dbf346345a1d6a8544ee87ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\JSdemo-1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\code\JSdemo-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_ff9cc2cf88b4efc9ce816ae12701c64285298465\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\JSdemo-1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\code\JSdemo-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_8b05a2fc972399785c2191ad3432f175bc4d1fd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\JSdemo-1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\code\JSdemo-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_3223a535bd93323d285191b9ffb42b151423e54d\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "com.example.jsdemo"
+        minSdkVersion 16
+        targetSdkVersion 22
+        versionCode 81
+        versionName "1.7.0.1"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:23.3.0'
+    compile 'com.android.support:support-v4:23.3.0'
+}

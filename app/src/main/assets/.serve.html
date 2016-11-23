@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+  <head> 
+        <meta http-equiv="Content-Type" content="text/xhtml; charset=utf-8" /> 
+      
+   
+<script type="text/javascript">
+function createTable(phon){ 
+   var table = document.getElementById("table"); 
+   var arrya=phon.split(";");
+   var rowindex=0;
+  for(var i=0;i<arrya.length;i++){
+         var  child= arrya[i].split(",");
+         var row = table.insertRow(rowindex);//创建一行 
+         rowindex+=1;
+         var cell1 = row.insertCell();//创建一个单元 
+         cell1.innerHTML=child[0];
+          var cell2 = row.insertCell();//创建一个单元 
+         cell2.innerHTML="("+i+")";
+        
+        for(var n=1;n<child.length;n++){
+             var row = table.insertRow(rowindex);//创建一行 
+             rowindex+=1;
+             var cell1 = row.insertCell();//创建一个单元 
+           if(i==0){
+              cell1.innerHTML= "<a href='javascript:Android.callPhone(\""+child[n]+"\")'>" +child[n]; 
+           }else if(i==1){
+             cell1.innerHTML= "<img src=\"file:///android_asset/qqicon.png\" height=\"14\" width=\"16\" > "+ "<a href='javascript:Android.callQQ(\""+child[n]+"\")'>" +child[n]; 
+           }else if(i==2){
+             cell1.innerHTML= "<img src=\"file:///android_asset/wxicon.png\" height=\"12\" width=\"16\" > "+ "<a href='javascript:Android.callWeixin(\""+child[n]+"\")'>" +child[n]; 
+           }
+           var cell2 = row.insertCell();
+         }
+     }
+ } 
+</script>
+ </head> 
+ <body>
+
+ <font color="#0099FF" size="5"> 服务支持</font> </p>
+
+
+<table id="table" >
+</table>
+</p></p></p></p></p>
+PS:</p>
+ <font color="#233fF1" size="2">
+以上连接可以点击进入QQ或者微信程序，界面的电话号码QQ号码都是从服务器获取，获取的数据直接保存在应用的私有目录下，然后从该目录取出数据通过java类调用js填充到html上，html根据绑定的java对象调用java类的方法实现拨打电话，， 转载请标明出处
+</p> 尊重作者 @author yung7086 
+</p> 2014年6月26日 11:25:46</font>
+ </body>
+</html>

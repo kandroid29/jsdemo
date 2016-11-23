@@ -1,0 +1,7 @@
+#Tue Nov 22 20:55:27 CST 2016
+base.0=D\:\\code\\JSdemo-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8e24629cf78fb327035da15f61f0e7e7dcb85e0f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\code\\JSdemo-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ff188c49a8e1568e631ffac8c9a7af0b1585a2b3\\classes.dex
+base.1=D\:\\code\\JSdemo-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ff188c49a8e1568e631ffac8c9a7af0b1585a2b3
+file.0=D\:\\code\\JSdemo-1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8e24629cf78fb327035da15f61f0e7e7dcb85e0f\\classes.dex
